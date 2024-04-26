@@ -1,0 +1,16 @@
+{
+  "name": "skew-protection-test",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/vercel": "0.0.0-skew-protection-20240412093445",
+    "astro": "0.0.0-skew-protection-20240412093445"
+  }
+}
